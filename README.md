@@ -149,3 +149,14 @@ Mi buscador favorito es: [Google](http://www.google.com).
 
 
 Pero si deseamos poner solo las ligas directas o un correo electrónico podemos utilizar los simbolos \< \>
+
+**Ejemplo**
+
+
+Documentación creada por: ***Brandon Leon Cabrera*** 
+
+
+<230353@utxicotepec.edu.mx>
+
+
+<http://utxicotepec.edu.mx>
