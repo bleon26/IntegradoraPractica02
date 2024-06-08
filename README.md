@@ -79,3 +79,11 @@ Continuamos con los comandos básicos de Git y GitHub para el maquetado de la do
 ### 5. Cuadros para códigos o reseñas (BLOCKQUOTES)
 
 Estos elementos son utilizados para resaltar instrucciones especificas para la instalación, configuración y/o inicialización o mostrar secciones de código fuente. Se maqueta iniciando el texto con un símbolo de mayor que (/>)
+
+**EJEMPLO**
+
+Para listar las carpetas y archivos desde una terminal de sistemas operativos Windows debemos ingresar el comando:
+
+c:dir
+
+Después oprimimos la tecla "Enter".
