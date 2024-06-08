@@ -87,3 +87,11 @@ Para listar las carpetas y archivos desde una terminal de sistemas operativos Wi
 c:dir
 
 Después oprimimos la tecla "Enter".
+
+**Ejemplo**
+
+
+>Aquí se ingresa un conjunto de instrucciones
+
+>para explicar al usuario, como instalar el
+>software que hemos diseñado.
