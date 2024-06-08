@@ -31,3 +31,6 @@ Este texto permanece al párrafo 1  Este texto permanece al párrafo 1 Este text
 Este texto permanece al párrafo 2  Este texto permanece al párrafo 2 Este texto permanece al párrafo 2 Este texto permanece al párrafo 2 Este texto permanece al párrafo 2 Este texto permanece al párrafo 2 Este texto permanece al párrafo 2 Este texto permanece al párrafo 2 Este texto permanece al párrafo 2 Este texto permanece al párrafo 2.
 
 Lo que es una página utilizaríamos etiqueta < P >
+También podemos aplicar estilos básicos de alineación:
+
+Este párrafo está alineado a la izquierda utilizando la propiedad de alineación Este párrafo está alineado a la izquierda utilizando la propiedad de alineación Este párrafo está alineado a la izquierda utilizando la propiedad de alineación Este párrafo está alineado a la izquierda utilizando la propiedad de alineación Este párrafo está alineado a la izquierda utilizando la propiedad de alineación Este párrafo está alineado a la izquierda utilizando la propiedad de alineación 
